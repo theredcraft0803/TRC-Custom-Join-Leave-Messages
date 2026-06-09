@@ -1,0 +1,2 @@
+join-message: "<white>[<green>+<white>] %player%"
+leave-message: "<white>[<red>-<white>] %player%"

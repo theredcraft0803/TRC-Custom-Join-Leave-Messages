@@ -1,0 +1,4 @@
+name: "TRC-JoinLeaveMessage"
+version: '1.0'
+main: de.trc.TRCJoinLeaveMessage.TRC_JoinLeaveMessage
+api-version: '1.21.11'

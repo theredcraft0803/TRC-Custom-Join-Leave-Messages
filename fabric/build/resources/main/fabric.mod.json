@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "trc_joinleavemessage",
+  "version": "1.0",
+  "name": "TRC JoinLeaveMessage",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/trc_joinleavemessage/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "fabric-datagen": [
+      "de.trc.TRC_JoinLeaveMessage.client.TRC_JoinLeaveMessageDataGenerator"
+    ],
+    "client": [
+      "de.trc.TRC_JoinLeaveMessage.client.TRC_JoinLeaveMessageClient"
+    ],
+    "main": [
+      "de.trc.TRC_JoinLeaveMessage.TRC_JoinLeaveMessage"
+    ]
+  },
+  "mixins": [
+    "trc_joinleavemessage.mixins.json",
+    {
+      "config": "trc_joinleavemessage.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=0.19.2",
+    "fabric-api": "*",
+    "minecraft": "1.21.11"
+  }
+}

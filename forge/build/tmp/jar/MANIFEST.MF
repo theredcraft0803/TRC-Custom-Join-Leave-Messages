@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: trc_joinleavemessage
+Specification-Vendor: 
+Specification-Version: 1
+Implementation-Title: trc-joinleavemessage
+Implementation-Version: 1.0
+Implementation-Vendor: 
+Implementation-Timestamp: 2026-05-23T00:10:30+0200
+
