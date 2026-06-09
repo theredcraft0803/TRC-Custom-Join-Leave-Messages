@@ -1,2 +1,2 @@
-# TRC-Custom-Join-Leave-Messages
-Fully customize join and leave messages for your players.
+# TRC-Custom-Join-Leave-Messages Source-Code
+Version: 1.21.11
