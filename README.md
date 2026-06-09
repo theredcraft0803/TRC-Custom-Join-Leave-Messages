@@ -1,6 +1,6 @@
-# TRC-TeleportCompasses
+# TRC: Custom Join/Leave Message Mod/Plugin
 
-A simple Paper plugin that adds a compass with the ability to teleport to a set location.
+A simple mod/plugin that lets you customize your servers join and leave messages.
 
 ## Choose Version
 Select the version in the branch menu.
