@@ -1,12 +1,10 @@
-# TRC: Custom Join/Leave Message Mod/Plugin
-
-A simple mod/plugin that lets you customize your servers join and leave messages.
+# Create-Infinite-Lava-Block
+A simple Create Mod Addon that adds an Infinite Lava Block
 
 ## Choose Version
 Select the source code version in the branch menu or download full build at:
-- Modrinth (Paper, Fabric, Forge): https://modrinth.com/plugin/trc-custom-joinleave-message
-- Curseforge (Paper): https://www.curseforge.com/minecraft/bukkit-plugins/trc-custom-join-leave-messages-paper-bukkit
-- Curseforge (Fabric, Forge): https://www.curseforge.com/minecraft/mc-mods/trc-custom-join-leave-messages-fabric-forge
+- Modrinth (NeoForge): https://modrinth.com/mod/create-infinite-lava-block
+- Curseforge (NeoForge): https://www.curseforge.com/minecraft/mc-mods/create-infinite-lava-block
 
 ## Available Versions
-- 1.21.11
+- 1.21.1
