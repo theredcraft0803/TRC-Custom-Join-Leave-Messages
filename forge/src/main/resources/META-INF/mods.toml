@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[61,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="trc_joinleavemessage"
+version="1.0"
+displayName="TRC JoinLeaveMessage"
+authors="TRC"
+description='''
+Simple join and leave message mod
+'''
+
+[[dependencies.trc_joinleavemessage]]
+modId="forge"
+mandatory=true
+versionRange="[61,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.trc_joinleavemessage]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.21.11,1.22)"
+ordering="NONE"
+side="BOTH"
