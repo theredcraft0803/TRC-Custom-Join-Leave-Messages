@@ -1,0 +1,10 @@
+name: TRC JoinLeaveMessage 26.1.2
+description: $description
+version: '${version}'
+
+main: de.trc.trcjoinleavemessage.TRCJoinLeaveMessage
+api-version: '26.1.2'
+load: POSTWORLD
+
+authors: [ TRC ]
+website: linktr.ee/theredcraft0803
