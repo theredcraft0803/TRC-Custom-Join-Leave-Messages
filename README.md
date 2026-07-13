@@ -10,4 +10,5 @@ Select the source code version in the branch menu or download full build at:
 - Curseforge (Forge, Fabric): https://www.curseforge.com/minecraft/mc-mods/trc-custom-join-leave-messages-fabric-forge
 
 ## Available Versions
-- 1.21.1
+- 1.21.1 (Paper, Fabric, Forge)
+- 26.1.2 (Paper)
